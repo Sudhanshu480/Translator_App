@@ -11,10 +11,10 @@ Welcome to the Translator App project. This Streamlit-based application leverage
 - **Language Selection**: Easy selection of source and target languages from the sidebar.
 
 # This is how it translates a text from one Language into another
-## Translation from English to Spanish:
+## - Translation from English to Spanish:
 ![image](https://github.com/Sudhanshu480/Translator_App/assets/96736479/4fd1e1a0-7e58-40fc-98d9-131c653f9a10)
 
-## Translation from English to Hindi:
+## - Translation from English to Hindi:
 ![image](https://github.com/Sudhanshu480/Translator_App/assets/96736479/03be83f5-91cc-4a87-9c66-4121f165460c)
 
 
